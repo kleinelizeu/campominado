@@ -4,9 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Campo minado é um popular jogo de computador para um jogador. Foi inventado por Robert Donner em 1989 e tem como objectivo revelar um campo de minas sem que alguma seja detonada.
 
-A few resources to get you started if this is your first Flutter project:
+Esse incrível e nostálgico jogo foi replicado em Flutter, acompanhando as aulas do curso de Flutter da Cod3r na Udemy.
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
